@@ -69,7 +69,7 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-* **Abe Choi** - *Initial work* - [PurpleBooth](https://github.com/PurpleBooth)
+* **Abe Choi** - *Initial work*
 
 See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
 
